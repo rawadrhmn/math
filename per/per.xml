@@ -1,0 +1,3039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questestinterop xmlns:d2l_2p0="http://desire2learn.com/xsd/d2lcp_v2p0">
+	<assessment d2l_2p0:id="1" title="" ident="res_quiz_1001">
+		<rubric>
+			<flow_mat>
+				<material>
+					<mattext d2l_2p0:isdisplayed="no" texttype="text/html" />
+				</material>
+			</flow_mat>
+		</rubric>
+		<assessmentcontrol hintswitch="no" solutionswitch="no" feedbackswitch="no" />
+		<presentation_material>
+			<flow_mat>
+				<material label="page header">
+					<mattext d2l_2p0:isdisplayed="no" texttype="text/html" />
+				</material>
+				<material label="page footer">
+					<mattext d2l_2p0:isdisplayed="no" texttype="text/html" />
+				</material>
+			</flow_mat>
+		</presentation_material>
+		<assess_procextension>
+			<d2l_2p0:intro_message d2l_2p0:isdisplayed="no" texttype="text/html" />
+			<category ident="36" d2l_2p0:sortorder="1"></category>
+			<d2l_2p0:disable_right_click>no</d2l_2p0:disable_right_click>
+			<d2l_2p0:disable_pager_access>yes</d2l_2p0:disable_pager_access>
+			<is_active>no</is_active>
+			<d2l_2p0:date_start />
+			<d2l_2p0:date_end />
+			<d2l_2p0:has_schedule_event>no</d2l_2p0:has_schedule_event>
+			<d2l_2p0:is_attempt_Rldb>no</d2l_2p0:is_attempt_Rldb>
+			<d2l_2p0:is_subview_Rldb>no</d2l_2p0:is_subview_Rldb>
+			<d2l_2p0:time_limit>120</d2l_2p0:time_limit>
+			<d2l_2p0:show_clock>no</d2l_2p0:show_clock>
+			<d2l_2p0:enforce_time_limit>no</d2l_2p0:enforce_time_limit>
+			<d2l_2p0:grace_period>5</d2l_2p0:grace_period>
+			<d2l_2p0:late_limit>0</d2l_2p0:late_limit>
+			<d2l_2p0:late_limit_data>0</d2l_2p0:late_limit_data>
+			<d2l_2p0:attempts_allowed>1</d2l_2p0:attempts_allowed>
+			<d2l_2p0:attempt_restrictions />
+			<d2l_2p0:mark_calculation_type>1</d2l_2p0:mark_calculation_type>
+			<d2l_2p0:is_forward_only>no</d2l_2p0:is_forward_only>
+		</assess_procextension>
+		<assessfeedback>
+			<rubric>
+				<flow_mat>
+					<material>
+						<mattext texttype="no">Your quiz has been submitted successfully.</mattext>
+					</material>
+				</flow_mat>
+			</rubric>
+			<d2l_2p0:response_display_type_id>1</d2l_2p0:response_display_type_id>
+			<d2l_2p0:show_correct_answers>no</d2l_2p0:show_correct_answers>
+			<d2l_2p0:show_class_average>no</d2l_2p0:show_class_average>
+			<d2l_2p0:show_score_distribution>no</d2l_2p0:show_score_distribution>
+		</assessfeedback>
+		<section ident="CONTAINER_SECTION">
+			<item ident="OBJ_1002" label="QUES_1003" d2l_2p0:page="1" title="PCALC7Z 2.3.1-1">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the function is a polynomial function.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = 3x + 5x&lt;sup&gt;5&lt;/sup&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1003_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1003_A1004">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">No</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1003_A1005">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">Yes</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1003_LID">QUES_1003_A1004</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1003_IF1004" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1003_LID">QUES_1003_A1005</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1003_IF1005" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1003">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1003_IF1004">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1003_IF1005">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1006" label="QUES_1007" d2l_2p0:page="1" title="PCALC7Z 2.3.1-2">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the function is a polynomial function.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = &lt;img src=&quot;per/f1q2g1.jpg&quot; alt=&quot;(8 - (x) with superscript (2)/6)&quot; style=&quot;vertical-align: -17.0px;&quot; /&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1007_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1007_A1008">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">Yes</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1007_A1009">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">No</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1007_LID">QUES_1007_A1008</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1007_IF1008" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1007_LID">QUES_1007_A1009</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1007_IF1009" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1007">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1007_IF1008">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1007_IF1009">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1010" label="QUES_1011" d2l_2p0:page="1" title="PCALC7Z 2.3.1-3">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the function is a polynomial function.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = 7 - &lt;img src=&quot;per/f1q3g1.jpg&quot; alt=&quot;(1/(x) with superscript (6))&quot; style=&quot;vertical-align: -21.0px;&quot; /&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1011_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1011_A1012">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">Yes</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1011_A1013">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">No</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1011_LID">QUES_1011_A1012</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1011_IF1012" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1011_LID">QUES_1011_A1013</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1011_IF1013" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1011">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1011_IF1012">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1011_IF1013">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1014" label="QUES_1015" d2l_2p0:page="1" title="PCALC7Z 2.3.1-11">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Find the degree of the polynomial function.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = -4x + 5x&lt;sup&gt;2&lt;/sup&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1015_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1015_A1016">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">1</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1015_A1017">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">5</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1015_A1018">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">-4</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1015_A1019">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">2</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1015_LID">QUES_1015_A1016</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1015_IF1016" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1015_LID">QUES_1015_A1017</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1015_IF1017" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1015_LID">QUES_1015_A1018</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1015_IF1018" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1015_LID">QUES_1015_A1019</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1015_IF1019" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1015">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1015_IF1016">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1015_IF1017">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1015_IF1018">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1015_IF1019">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1020" label="QUES_1021" d2l_2p0:page="1" title="PCALC7Z 2.3.1-17">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Find the degree of the polynomial function.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;-6x&lt;sup&gt;3&lt;/sup&gt; - 5x&lt;sup&gt;2&lt;/sup&gt; - 5x - 4y&lt;sup&gt;4&lt;/sup&gt; - 2</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1021_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1021_A1022">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">-6</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1021_A1023">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">4</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1021_A1024">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">&lt;span style=&quot;vertical-align: super;&quot;&gt;3&lt;/span&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1021_A1025">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">10</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1021_LID">QUES_1021_A1022</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1021_IF1022" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1021_LID">QUES_1021_A1023</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1021_IF1023" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1021_LID">QUES_1021_A1024</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1021_IF1024" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1021_LID">QUES_1021_A1025</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1021_IF1025" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1021">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1021_IF1022">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1021_IF1023">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1021_IF1024">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1021_IF1025">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1026" label="QUES_1027" d2l_2p0:page="1" title="PCALC7Z 2.3.2-1">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the graph shown is the graph of a polynomial function.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;img src=&quot;per/f1q6g1.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1027_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1027_A1028">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">polynomial function</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1027_A1029">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">not a polynomial function</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1027_LID">QUES_1027_A1028</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1027_IF1028" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1027_LID">QUES_1027_A1029</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1027_IF1029" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1027">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1027_IF1028">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1027_IF1029">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1030" label="QUES_1031" d2l_2p0:page="1" title="PCALC7Z 2.3.2-5">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the graph shown is the graph of a polynomial function.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;img src=&quot;per/f1q7g1.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1031_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1031_A1032">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">not a polynomial function</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1031_A1033">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">polynomial function</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1031_LID">QUES_1031_A1032</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1031_IF1032" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1031_LID">QUES_1031_A1033</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1031_IF1033" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1031">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1031_IF1032">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1031_IF1033">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1034" label="QUES_1035" d2l_2p0:page="1" title="PCALC7Z 2.3.2-3">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the graph shown is the graph of a polynomial function.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;img src=&quot;per/f1q8g1.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1035_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1035_A1036">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">polynomial function</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1035_A1037">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">not a polynomial function</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1035_LID">QUES_1035_A1036</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1035_IF1036" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1035_LID">QUES_1035_A1037</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1035_IF1037" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1035">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1035_IF1036">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1035_IF1037">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1038" label="QUES_1039" d2l_2p0:page="1" title="PCALC7Z 2.3.2-7">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Find the x-intercepts of the polynomial function. State whether the graph crosses the x-axis, or touches the x-axis and turns around, at each intercept. &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = 7x&lt;sup&gt;2&lt;/sup&gt; - x&lt;sup&gt;3&lt;/sup&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1039_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1039_A1040">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, touches the x-axis and turns around;&lt;br /&gt;&lt;img src=&quot;per/f1q9g1.jpg&quot; alt=&quot;square root of (7)&quot; style=&quot;vertical-align: -4.0px;&quot; /&gt;, crosses the x-axis;&lt;br /&gt;-&lt;img src=&quot;per/f1q9g2.jpg&quot; alt=&quot;square root of (7)&quot; style=&quot;vertical-align: -4.0px;&quot; /&gt;, crosses the x-axis</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1039_A1041">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, touches the x-axis and turns around;&lt;br /&gt;7, touches the x-axis and turns around</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1039_A1042">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, touches the x-axis and turns around;&lt;br /&gt;7, crosses the x-axis</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1039_A1043">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, crosses the x-axis;&lt;br /&gt;&lt;img src=&quot;per/f1q9g3.jpg&quot; alt=&quot;square root of (7)&quot; style=&quot;vertical-align: -4.0px;&quot; /&gt;, crosses the x-axis;&lt;br /&gt;-&lt;img src=&quot;per/f1q9g4.jpg&quot; alt=&quot;square root of (7)&quot; style=&quot;vertical-align: -4.0px;&quot; /&gt;, crosses the x-axis</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1039_LID">QUES_1039_A1040</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1039_IF1040" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1039_LID">QUES_1039_A1041</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1039_IF1041" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1039_LID">QUES_1039_A1042</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1039_IF1042" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1039_LID">QUES_1039_A1043</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1039_IF1043" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1039">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1039_IF1040">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1039_IF1041">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1039_IF1042">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1039_IF1043">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1044" label="QUES_1045" d2l_2p0:page="1" title="PCALC7Z 2.3.2-8">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Find the x-intercepts of the polynomial function. State whether the graph crosses the x-axis, or touches the x-axis and turns around, at each intercept. &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = x&lt;sup&gt;4&lt;/sup&gt; - 49x&lt;sup&gt;2&lt;/sup&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1045_LID" rcardinality="Single">
+							<render_choice shuffle="no">
+								<flow_label class="Block">
+									<response_label ident="QUES_1045_A1046">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, touches the x-axis and turns around;&lt;br /&gt;7, crosses the x-axis;&lt;br /&gt;-7, crosses the x-axis</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1045_A1047">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, touches the x-axis and turns around;&lt;br /&gt;49, touches the x-axis and turns around</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1045_A1048">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, crosses the x-axis;&lt;br /&gt;7, crosses the x-axis;&lt;br /&gt;-7, crosses the x-axis</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1045_A1049">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, touches the x-axis and turns around;&lt;br /&gt;49, crosses the x-axis </mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1045_LID">QUES_1045_A1046</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1045_IF1046" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1045_LID">QUES_1045_A1047</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1045_IF1047" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1045_LID">QUES_1045_A1048</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1045_IF1048" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1045_LID">QUES_1045_A1049</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1045_IF1049" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1045">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1045_IF1046">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1045_IF1047">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1045_IF1048">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1045_IF1049">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1050" label="QUES_1051" d2l_2p0:page="1" title="PCALC7Z 2.3.2-9">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Find the x-intercepts of the polynomial function. State whether the graph crosses the x-axis, or touches the x-axis and turns around, at each intercept. &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;x&lt;sup&gt;5&lt;/sup&gt; - 27x&lt;sup&gt;3&lt;/sup&gt; + 50x = 0</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1051_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1051_A1052">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html"> 0, crosses the x-axis;&lt;br /&gt;5, crosses the x-axis;&lt;br /&gt;-5,  crosses the x-axis;&lt;br /&gt;&lt;img src=&quot;per/f1q11g1.jpg&quot; alt=&quot;square root of (2)&quot; style=&quot;vertical-align: -4.0px;&quot; /&gt;, crosses the x-axis;&lt;br /&gt;-&lt;img src=&quot;per/f1q11g2.jpg&quot; alt=&quot;square root of (2)&quot; style=&quot;vertical-align: -4.0px;&quot; /&gt;, crosses the x-axis</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1051_A1053">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html"> 0, crosses the x-axis;&lt;br /&gt;25, touches the x-axis and turns around;&lt;br /&gt;2, touches the x-axis and turns around</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1051_A1054">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html"> 0, touches the x-axis and turns around;&lt;br /&gt;5, crosses the x-axis;&lt;br /&gt;-5,  crosses the x-axis;&lt;br /&gt;&lt;img src=&quot;per/f1q11g3.jpg&quot; alt=&quot;square root of (2)&quot; style=&quot;vertical-align: -4.0px;&quot; /&gt;, crosses the x-axis;&lt;br /&gt;-&lt;img src=&quot;per/f1q11g4.jpg&quot; alt=&quot;square root of (2)&quot; style=&quot;vertical-align: -4.0px;&quot; /&gt;, crosses the x-axis</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1051_A1055">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html"> 0, touches the x-axis and turns around;&lt;br /&gt;25, touches the x-axis and turns around;&lt;br /&gt;2, touches the x-axis and turns around</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1051_LID">QUES_1051_A1052</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1051_IF1052" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1051_LID">QUES_1051_A1053</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1051_IF1053" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1051_LID">QUES_1051_A1054</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1051_IF1054" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1051_LID">QUES_1051_A1055</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1051_IF1055" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1051">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1051_IF1052">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1051_IF1053">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1051_IF1054">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1051_IF1055">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1056" label="QUES_1057" d2l_2p0:page="1" title="PCALC7Z 2.3.2-13">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Find the x-intercepts of the polynomial function. State whether the graph crosses the x-axis, or touches the x-axis and turns around, at each intercept. &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = -x&lt;sup&gt;2&lt;/sup&gt;(x + 4)(x&lt;sup&gt;2&lt;/sup&gt; - 1)</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1057_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1057_A1058">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, touches the x-axis and turns around;&lt;br /&gt;-4, crosses the x-axis;&lt;br /&gt;1, touches the x-axis and turns around</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1057_A1059">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, touches the x-axis and turns around;&lt;br /&gt;-4, crosses the x-axis;&lt;br /&gt;-1, crosses the x-axis;&lt;br /&gt;1, crosses the x-axis</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1057_A1060">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, touches the x-axis and turns around;&lt;br /&gt;4, crosses the x-axis;&lt;br /&gt;-1,  touches the x-axis and turns around;&lt;br /&gt;1,  touches the x-axis and turns around</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1057_A1061">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0, crosses the x-axis;&lt;br /&gt;-4, crosses the x-axis;&lt;br /&gt;-1, crosses the x-axis;&lt;br /&gt;1, crosses the x-axis</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1057_LID">QUES_1057_A1058</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1057_IF1058" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1057_LID">QUES_1057_A1059</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1057_IF1059" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1057_LID">QUES_1057_A1060</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1057_IF1060" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1057_LID">QUES_1057_A1061</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1057_IF1061" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1057">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1057_IF1058">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1057_IF1059">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1057_IF1060">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1057_IF1061">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1062" label="QUES_1063" d2l_2p0:page="1" title="PCALC7Z 2.3.2-22">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Find the y-intercept of the polynomial function.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = -x&lt;sup&gt;2&lt;/sup&gt;(x + 2)(x&lt;sup&gt;2&lt;/sup&gt; + 1)</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1063_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1063_A1064">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">-2</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1063_A1065">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">1</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1063_A1066">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1063_A1067">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">2</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1063_LID">QUES_1063_A1064</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1063_IF1064" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1063_LID">QUES_1063_A1065</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1063_IF1065" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1063_LID">QUES_1063_A1066</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1063_IF1066" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1063_LID">QUES_1063_A1067</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1063_IF1067" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1063">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1063_IF1064">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1063_IF1065">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1063_IF1066">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1063_IF1067">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1068" label="QUES_1069" d2l_2p0:page="1" title="PCALC7Z 2.3.2-26">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the graph of the polynomial has y-axis symmetry, origin symmetry, or neither.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = 2x&lt;sup&gt;2&lt;/sup&gt; - x&lt;sup&gt;3&lt;/sup&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1069_LID" rcardinality="Single">
+							<render_choice shuffle="no">
+								<flow_label class="Block">
+									<response_label ident="QUES_1069_A1070">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">y-axis symmetry</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1069_A1071">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">origin symmetry</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1069_A1072">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">neither</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1069_LID">QUES_1069_A1070</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1069_IF1070" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1069_LID">QUES_1069_A1071</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1069_IF1071" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1069_LID">QUES_1069_A1072</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1069_IF1072" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1069">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1069_IF1070">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1069_IF1071">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1069_IF1072">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1073" label="QUES_1074" d2l_2p0:page="1" title="PCALC7Z 2.3.2-28">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the graph of the polynomial has y-axis symmetry, origin symmetry, or neither.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = x&lt;sup&gt;4&lt;/sup&gt; - 81x&lt;sup&gt;2&lt;/sup&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1074_LID" rcardinality="Single">
+							<render_choice shuffle="no">
+								<flow_label class="Block">
+									<response_label ident="QUES_1074_A1075">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">y-axis symmetry</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1074_A1076">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">origin symmetry</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1074_A1077">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">neither</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1074_LID">QUES_1074_A1075</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1074_IF1075" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1074_LID">QUES_1074_A1076</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1074_IF1076" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1074_LID">QUES_1074_A1077</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1074_IF1077" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1074">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1074_IF1075">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1074_IF1076">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1074_IF1077">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1078" label="QUES_1079" d2l_2p0:page="1" title="PCALC7Z 2.3.2-29">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the graph of the polynomial has y-axis symmetry, origin symmetry, or neither.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = x&lt;sup&gt;3&lt;/sup&gt; - 2x</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1079_LID" rcardinality="Single">
+							<render_choice shuffle="no">
+								<flow_label class="Block">
+									<response_label ident="QUES_1079_A1080">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">y-axis symmetry</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1079_A1081">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">origin symmetry</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1079_A1082">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">neither</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1079_LID">QUES_1079_A1080</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1079_IF1080" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1079_LID">QUES_1079_A1081</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1079_IF1081" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1079_LID">QUES_1079_A1082</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1079_IF1082" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1079">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1079_IF1080">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1079_IF1081">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1079_IF1082">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1083" label="QUES_1084" d2l_2p0:page="1" title="PCALC7Z 2.3.2-38">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the graph of the polynomial has y-axis symmetry, origin symmetry, or neither.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;img src=&quot;per/f1q17g1.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;204&quot; width=&quot;200&quot; /&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1084_LID" rcardinality="Single">
+							<render_choice shuffle="no">
+								<flow_label class="Block">
+									<response_label ident="QUES_1084_A1085">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">y-axis symmetry</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1084_A1086">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">origin symmetry</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1084_A1087">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">neither</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1084_LID">QUES_1084_A1085</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1084_IF1085" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1084_LID">QUES_1084_A1086</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1084_IF1086" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1084_LID">QUES_1084_A1087</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1084_IF1087" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1084">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1084_IF1085">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1084_IF1086">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1084_IF1087">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1088" label="QUES_1089" d2l_2p0:page="1" title="PCALC7Z 2.3.2-39">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine whether the graph of the polynomial has y-axis symmetry, origin symmetry, or neither.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;img src=&quot;per/f1q18g1.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;207&quot; width=&quot;200&quot; /&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1089_LID" rcardinality="Single">
+							<render_choice shuffle="no">
+								<flow_label class="Block">
+									<response_label ident="QUES_1089_A1090">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">origin symmetry</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1089_A1091">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">y-axis symmetry</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1089_A1092">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">neither</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1089_LID">QUES_1089_A1090</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1089_IF1090" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1089_LID">QUES_1089_A1091</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1089_IF1091" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1089_LID">QUES_1089_A1092</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1089_IF1092" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1089">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1089_IF1090">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1089_IF1091">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1089_IF1092">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1093" label="QUES_1094" d2l_2p0:page="1" title="PCALC7Z 2.3.3-3">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Use the Leading Coefficient Test to determine the end behavior of the polynomial function. Then use this end behavior to match the function with its graph.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = 4x&lt;sup&gt;3&lt;/sup&gt; + 2x&lt;sup&gt;2&lt;/sup&gt; - 2x - 2</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1094_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1094_A1095">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">falls to the left and rises to the right&lt;br /&gt;&lt;img src=&quot;per/f1q19g1.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1094_A1096">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">rises to the left and rises to the right  &lt;br /&gt;&lt;img src=&quot;per/f1q19g2.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1094_A1097">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">falls to the left and falls to the right &lt;br /&gt;&lt;img src=&quot;per/f1q19g3.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1094_A1098">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">rises to the left and falls to the right   &lt;br /&gt;&lt;img src=&quot;per/f1q19g4.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1094_LID">QUES_1094_A1095</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1094_IF1095" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1094_LID">QUES_1094_A1096</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1094_IF1096" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1094_LID">QUES_1094_A1097</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1094_IF1097" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1094_LID">QUES_1094_A1098</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1094_IF1098" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1094">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1094_IF1095">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1094_IF1096">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1094_IF1097">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1094_IF1098">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1099" label="QUES_1100" d2l_2p0:page="1" title="PCALC7Z 2.3.3-4">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Use the Leading Coefficient Test to determine the end behavior of the polynomial function. Then use this end behavior to match the function with its graph.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = -6x&lt;sup&gt;3&lt;/sup&gt; - 3x&lt;sup&gt;2&lt;/sup&gt; + 3x - 3</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1100_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1100_A1101">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">rises to the left and falls to the right&lt;br /&gt;&lt;img src=&quot;per/f1q20g1.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1100_A1102">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">rises to the left and rises to the right &lt;br /&gt;&lt;img src=&quot;per/f1q20g2.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1100_A1103">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">falls to the left and rises to the right   &lt;br /&gt;&lt;img src=&quot;per/f1q20g3.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1100_A1104">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">falls to the left and falls to the right  &lt;br /&gt;&lt;img src=&quot;per/f1q20g4.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1100_LID">QUES_1100_A1101</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1100_IF1101" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1100_LID">QUES_1100_A1102</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1100_IF1102" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1100_LID">QUES_1100_A1103</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1100_IF1103" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1100_LID">QUES_1100_A1104</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1100_IF1104" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1100">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1100_IF1101">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1100_IF1102">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1100_IF1103">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1100_IF1104">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1105" label="QUES_1106" d2l_2p0:page="1" title="PCALC7Z 2.3.7-1">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine the maximum possible number of turning points for the graph of the function.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = -x&lt;sup&gt;2&lt;/sup&gt; + 12x + 11</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1106_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1106_A1107">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">3</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1106_A1108">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">1</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1106_A1109">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1106_A1110">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">2</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1106_LID">QUES_1106_A1107</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1106_IF1107" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1106_LID">QUES_1106_A1108</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1106_IF1108" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1106_LID">QUES_1106_A1109</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1106_IF1109" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1106_LID">QUES_1106_A1110</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1106_IF1110" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1106">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1106_IF1107">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1106_IF1108">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1106_IF1109">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1106_IF1110">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1111" label="QUES_1112" d2l_2p0:page="1" title="PCALC7Z 2.3.7-2">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Determine the maximum possible number of turning points for the graph of the function.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = 2x&lt;sup&gt;8&lt;/sup&gt; + 3x&lt;sup&gt;7&lt;/sup&gt; - 3x - 19</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1112_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1112_A1113">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">2</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1112_A1114">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">8</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1112_A1115">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">7 </mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1112_A1116">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">0</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1112_LID">QUES_1112_A1113</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1112_IF1113" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1112_LID">QUES_1112_A1114</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1112_IF1114" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1112_LID">QUES_1112_A1115</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1112_IF1115" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1112_LID">QUES_1112_A1116</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1112_IF1116" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1112">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1112_IF1113">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1112_IF1114">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1112_IF1115">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1112_IF1116">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1117" label="QUES_1118" d2l_2p0:page="1" title="PCALC7Z 2.3.8-1">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Graph the polynomial function. &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = x&lt;sup&gt;4&lt;/sup&gt; - 9x&lt;sup&gt;2&lt;/sup&gt;&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;per/f1q23g1.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;210&quot; width=&quot;189&quot; /&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1118_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1118_A1119">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">   &lt;br /&gt;&lt;img src=&quot;per/f1q23g2.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;201&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1118_A1120">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">&lt;br /&gt;&lt;img src=&quot;per/f1q23g3.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;201&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1118_A1121">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">  &lt;br /&gt;&lt;img src=&quot;per/f1q23g4.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;201&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1118_A1122">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html"> &lt;br /&gt;&lt;img src=&quot;per/f1q23g5.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;201&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1118_LID">QUES_1118_A1119</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1118_IF1119" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1118_LID">QUES_1118_A1120</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1118_IF1120" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1118_LID">QUES_1118_A1121</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1118_IF1121" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1118_LID">QUES_1118_A1122</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1118_IF1122" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1118">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1118_IF1119">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1118_IF1120">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1118_IF1121">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1118_IF1122">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+			<item ident="OBJ_1123" label="QUES_1124" d2l_2p0:page="1" title="PCALC7Z 2.3.8-2">
+				<itemmetadata>
+					<qtimetadata>
+						<qti_metadatafield>
+							<fieldlabel>qmd_computerscored</fieldlabel>
+							<fieldentry>yes</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_questiontype</fieldlabel>
+							<fieldentry>Multiple Choice</fieldentry>
+						</qti_metadatafield>
+						<qti_metadatafield>
+							<fieldlabel>qmd_weighting</fieldlabel>
+							<fieldentry>1</fieldentry>
+						</qti_metadatafield>
+					</qtimetadata>
+				</itemmetadata>
+				<itemproc_extension>
+					<d2l_2p0:difficulty>1</d2l_2p0:difficulty>
+					<d2l_2p0:isbonus>no</d2l_2p0:isbonus>
+					<d2l_2p0:ismandatory>no</d2l_2p0:ismandatory>
+				</itemproc_extension>
+				<presentation>
+					<flow>
+						<material>
+							<mattext texttype="text/html">&lt;span style=&quot;font-weight: bold;&quot;&gt;Graph the polynomial function. &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;f(x) = 3x&lt;sup&gt;2&lt;/sup&gt; - x&lt;sup&gt;3&lt;/sup&gt;&lt;br /&gt;&lt;img src=&quot;per/f1q24g1.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;200&quot; width=&quot;200&quot; /&gt;</mattext>
+						</material>
+						<response_extension>
+							<d2l_2p0:display_style>2</d2l_2p0:display_style>
+							<d2l_2p0:enumeration>5</d2l_2p0:enumeration>
+							<d2l_2p0:grading_type>0</d2l_2p0:grading_type>
+						</response_extension>
+						<response_lid ident="QUES_1124_LID" rcardinality="Single">
+							<render_choice shuffle="yes">
+								<flow_label class="Block">
+									<response_label ident="QUES_1124_A1125">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">&lt;br /&gt;&lt;img src=&quot;per/f1q24g2.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;201&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1124_A1126">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">  &lt;br /&gt;&lt;img src=&quot;per/f1q24g3.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;203&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1124_A1127">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html"> &lt;br /&gt;&lt;img src=&quot;per/f1q24g4.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;202&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+								<flow_label class="Block">
+									<response_label ident="QUES_1124_A1128">
+										<flow_mat>
+											<material>
+												<mattext texttype="text/html">   &lt;br /&gt;&lt;img src=&quot;per/f1q24g5.jpg&quot; alt=&quot;&quot; style=&quot;vertical-align: 0.0px;&quot; height=&quot;204&quot; width=&quot;200&quot; /&gt;</mattext>
+											</material>
+										</flow_mat>
+									</response_label>
+								</flow_label>
+							</render_choice>
+						</response_lid>
+					</flow>
+				</presentation>
+				<hint>
+					<hintmaterial>
+						<flow_mat>
+							<material>
+								<mattext texttype="text/html"></mattext>
+							</material>
+						</flow_mat>
+					</hintmaterial>
+				</hint>
+				<resprocessing>
+					<respcondition title="Response Condition 1">
+						<conditionvar>
+							<varequal respident="QUES_1124_LID">QUES_1124_A1125</varequal>
+						</conditionvar>
+						<setvar action="Set">100</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1124_IF1125" />
+					</respcondition>
+					<respcondition title="Response Condition 2">
+						<conditionvar>
+							<varequal respident="QUES_1124_LID">QUES_1124_A1126</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1124_IF1126" />
+					</respcondition>
+					<respcondition title="Response Condition 3">
+						<conditionvar>
+							<varequal respident="QUES_1124_LID">QUES_1124_A1127</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1124_IF1127" />
+					</respcondition>
+					<respcondition title="Response Condition 4">
+						<conditionvar>
+							<varequal respident="QUES_1124_LID">QUES_1124_A1128</varequal>
+						</conditionvar>
+						<setvar action="Set">0</setvar>
+						<displayfeedback feedbacktype="Response" linkrefid="QUES_1124_IF1128" />
+					</respcondition>
+				</resprocessing>
+				<itemfeedback ident="QUES_1124">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1124_IF1125">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1124_IF1126">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1124_IF1127">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+				<itemfeedback ident="QUES_1124_IF1128">
+					<material>
+						<mattext texttype="text/html"></mattext>
+					</material>
+				</itemfeedback>
+			</item>
+		</section>
+	</assessment>
+</questestinterop>
