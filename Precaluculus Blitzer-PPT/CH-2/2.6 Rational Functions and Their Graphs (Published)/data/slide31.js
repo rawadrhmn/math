@@ -1,0 +1,15 @@
+(function(){var loadHandler=window['sl_{7440DAF3-5BEE-4EBA-9543-31AAF2DFB394}'];loadHandler&&loadHandler(30, '<div id="spr0_9dadd74"><div id="spr1_9dadd74" class="kern slide"><img id="img3_9dadd74" src="data/img3.png" width="720px" height="540px" alt="" style="left:0px;top:0px;"/><div id="spr3_9dadd74" aria-label="Pearson_Strap_Bound_White" role="group" style="top:500.5px;"><div id="spr4_9dadd74"><img id="img0_9dadd74" src="data/img0.png" width="150" height="39" alt="" style="left:0.188px;top:-0.062px;"/></div></div><div id="svg0_9dadd74" style="top:504.5px;"><svg width="720" height="36" viewBox="0 0 720 36"><path fill="#bbe0e3" d="M0,0 h720 v36 h-720 Z"/></svg></div><div id="spr5_9dadd74" style="left:270.5px;top:500.125px;"><div style="width:0px;"><span id="txt0_9dadd74" data-width="264.750000" style="left:7.2px;top:4.239px;">Copyright © 2022, 2018, 2014 Pearson Education, Inc.</span></div><div style="width:0px;"><span id="txt1_9dadd74" class="relpos" data-width="49.324219" style="left:7.2px;top:25.839px;">Edited by </span><a id="hl0_9dadd74" class="relpos" href="mailto:rawad.abdulrahman@ipsksa.com" title="mailto:rawad.abdulrahman@ipsksa.com" target="_self" onclick="document.getElementById(\'coreSpr_14324243\').getCore().processTriggerEffect(this);return document.getElementById(\'coreSpr_14324243\').getCore().gotoLink(this);"><span id="txt2_9dadd74" class="relpos" data-width="159.667969" style="left:7.195px;top:25.839px;">rawad.abdulrahman@ipsksa.com</span></a></div></div><div id="spr6_9dadd74" style="left:594.125px;top:508.75px;"><div style="width:0px;"><span id="txt3_9dadd74" data-width="76.042969" style="left:7.2px;top:4.513px;">Slide - 31</span></div></div><div id="spr7_9dadd74" style="left:16.375px;top:509.625px;"><div id="spr8_9dadd74"><img id="img1_9dadd74" src="data/img1.png" width="85" height="26" alt="" style="left:0.125px;top:-0.063px;"/></div></div><div id="spr9_9dadd74" style="left:107.375px;top:513.75px;"><div style="width:0px;"><span id="txt4_9dadd74" class="nokern" data-width="139.022263" style="left:7.2px;top:4.186px;">ALWAYS LEARNING</span></div></div><div id="svg1_9dadd74" style="left:-0px;top:79.375px;"><svg width="720" height="7" viewBox="0 0 720 7"><path fill="#bbe0e3" d="M0,0 h720 v6.25 h-720 Z"/></svg></div></div><div id="spr2_9dadd74" class="kern slide"><div id="spr10_9dadd74" style="left:16.375px;"><div style="width:0px;"><span id="txt5_9dadd74" class="nokern" data-width="553.054688" style="left:7.2px;top:20.953px;">Check Point 6:  Graphing a Rational Function</span></div></div><div id="spr11_9dadd74" style="left:27px;top:87px;"><img id="img2_9dadd74" src="data/img105.png" width="588" height="397" alt="Graph: 𝑓 𝑥 = 2 𝑥 2   𝑥 2 −9 \
+Step 1  Find the y-intercept.  Evaluate f(0).\
+𝑓 0 =0\
+Step 2  Find x-intercept(s). Find 𝑥-values; 𝑓(𝑥)=0\
+2 𝑥 2 =0\
+𝑥=0\
+Step 3  Find the vertical asymptote(s).\
+ 𝑥 2 −9=0\
+𝑥=±3\
+Step 4  Find the horizontal asymptote.\
+The numerator and denominator of f have the same degree, 2.  The horizontal asymptote is 𝑦= 2 1 =2. \
+\
+\
+\
+"/></div></div></div>', '{"s":[]}');})();
